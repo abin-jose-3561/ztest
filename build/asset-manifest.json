@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hvpnl-dash2/static/css/main.1b8f7407.css",
+    "main.js": "/hvpnl-dash2/static/js/main.f25caa3a.js",
+    "index.html": "/hvpnl-dash2/index.html",
+    "main.1b8f7407.css.map": "/hvpnl-dash2/static/css/main.1b8f7407.css.map",
+    "main.f25caa3a.js.map": "/hvpnl-dash2/static/js/main.f25caa3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8f7407.css",
+    "static/js/main.f25caa3a.js"
+  ]
+}
